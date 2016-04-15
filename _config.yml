@@ -10,8 +10,8 @@ title: SiteHound
 email: sitehound@apexa.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   SiteHound - easy web analytics tracking.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.sitehound.co" # the base hostname & protocol for your site
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "http://www.sitehound.co" # the base hostname & protocol for your site
 twitter_username: andyy
 github_username:  andyyoung
 
